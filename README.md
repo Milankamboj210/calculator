@@ -6,7 +6,7 @@ A sleek and responsive calculator built using **HTML**, **CSS**, and **JavaScrip
 
 ## 🚀 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://milankamboj210.github.io/calculator/
 
 ---
 
