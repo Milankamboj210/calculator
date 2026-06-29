@@ -12,7 +12,7 @@ A sleek and responsive calculator built using **HTML**, **CSS**, and **JavaScrip
 
 ## 📸 Preview
 
-> Add a screenshot of your calculator here.
+<img width="1440" height="781" alt="image" src="https://github.com/user-attachments/assets/e76b873d-be0a-4f4a-8dbd-0748f17fa2a2" />
 
 ---
 
@@ -71,10 +71,8 @@ Through this project, I practiced:
 
 ## 📷 Screenshot
 
-You can replace this section with an image like:
+<img width="1440" height="781" alt="image" src="https://github.com/user-attachments/assets/80997df5-cc46-4211-b97b-a30ccf5f8da0" />
 
-```html
-<img src="screenshot.png" alt="Calculator Preview">
 ```
 
 ---
